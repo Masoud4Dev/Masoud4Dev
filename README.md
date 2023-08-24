@@ -6,17 +6,21 @@
 <!-- About Me -->
 ## 👋 About Me
 
-I'm Masoud Mukhtar, the founder and CEO at Huud Technology. I'm a passionate Somalian entrepreneur based in Mogadishu, Somalia. At Huud Technology, we're dedicated to creating digital solutions that make a positive impact on society. With a strong belief in experience-driven solutions, we're committed to transforming lives through innovation.
+I'm Masoud Mukhtar, I'm a passionate Somalian entrepreneur based in Mogadishu, Somalia. At Huud Technology, we're dedicated to creating digital solutions that make a positive impact on society. With a strong belief in experience-driven solutions, we're committed to transforming lives through innovation.
 
 <!-- Technologies & Skills -->
 ## 💼 Technologies & Skills
 
-- 🚀 Web Development: HTML, CSS, JavaScript, React
-- 📱 Mobile App Development: Flutter, React Native
+- 🚀 Web Development: NodeJs, Laravel, VueJs, Nuxt.js
+- 📱 Mobile App Development: Flutter
 - 💡 UI/UX Design: Figma, Adobe XD
-- 🧠 Machine Learning: TensorFlow, Python
+- 🧠 Machine Learning: TensorFlow, Python, Numpy
 - ⚙️ DevOps: Docker, Kubernetes
 - 🛠️ Tools: Git, VS Code, Jira
+- 🚀 Artificial Intelligence (AI)
+- 🧠 Deep Learning (DL): 
+- 🌐 Internet of Things (IoT)
+- 🐍 Python, Mojo
 
 
 <!-- Collaboration -->
