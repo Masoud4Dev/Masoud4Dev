@@ -29,9 +29,9 @@ I'm Masoud Mukhtar, I'm a passionate Somalian entrepreneur based in Mogadishu, S
 I'm eager to collaborate on ambitious projects that push the boundaries of technology and make a real impact. If you're working on something big, let's connect and create something amazing together!
 
 
-- LinkedIn: [Your LinkedIn Profile](linkedin/in/Masoudmukhtar)
-- Twitter: [@YourTwitterHandle](twitter_profile_url_here)
-- Website: [Your Website](your_website_url_here)
+- LinkedIn: [@MasoudMukhtar](https://linkedin/in/Masoudmukhtar)
+- Twitter: [@MasoudMAdam](https://twitter.com/MasoudMAdam)
+- Website: [MasoudMukhtar.com](http://masoudmukhtar.com/)
 
 <!-- Animations -->
 <p align="center">
@@ -42,9 +42,9 @@ I'm eager to collaborate on ambitious projects that push the boundaries of techn
 <!-- Add-ons -->
 ## 🌟 Add-ons
 
-- Check out my [blog](blog_url_here) for tech insights and updates.
-- Join the conversation on my [Discord server](discord_server_url_here) to discuss the latest tech trends.
-- Explore my [YouTube channel](youtube_channel_url_here) for video tutorials and tech talks.
+- Check out my [blog](https://masoudmukhtar.com/blog) for tech insights and updates.
+- Join the conversation on my [Telegram](https://t.me/MasoudMukhtar) to discuss the latest tech trends.
+- Explore my [YouTube channel](https://www.youtube.com/@masoudmukhtar) for video tutorials and tech talks.
 
 <!-- Footer -->
 <p align="center">
