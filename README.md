@@ -6,7 +6,7 @@
 <!-- About Me -->
 ## 👋 About Me
 
-I'm Masoud Mukhtar, I'm a passionate Somalian entrepreneur based in Mogadishu, Somalia. At Huud Technology, we're dedicated to creating digital solutions that make a positive impact on society. With a strong belief in experience-driven solutions, we're committed to transforming lives through innovation.
+I'm Masoud Mukhtar, a passionate Somalian entrepreneur based in Mogadishu, Somalia. At Huud Technology, we're dedicated to creating digital solutions that make a positive impact on society. With a strong belief in experience-driven solutions, we're committed to transforming lives through innovation.
 
 <!-- Technologies & Skills -->
 ## 💼 Technologies & Skills
