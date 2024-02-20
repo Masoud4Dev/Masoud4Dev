@@ -46,6 +46,8 @@ I'm eager to collaborate on ambitious projects that push the boundaries of techn
 - Join the conversation on my [Telegram](https://t.me/MasoudMukhtar) to discuss the latest tech trends.
 - Explore my [YouTube channel](https://www.youtube.com/@masoudmukhtar) for video tutorials and tech talks.
 
+<a href="https://app.daily.dev/masoudadam"><img src="https://api.daily.dev/devcards/v2/2TWHG9yGncP8YN6vz7gnI.png?r=zq4" width="356" alt="Masoud Adam's Dev Card"/></a>
+
 <!-- Footer -->
 <p align="center">
   <br>
